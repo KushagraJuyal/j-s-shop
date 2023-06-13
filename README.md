@@ -1,3 +1,3 @@
 # j-s-shop
 Welcome people!
-//licenced by juyal.kj//
+//licenced by Kushagra Juyal//
